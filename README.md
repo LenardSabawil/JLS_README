@@ -1,17 +1,14 @@
-<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2 align="left">Hey there! I'm Justine Lenard Sabawil</h2>
-
-<!-- ## 👋 &nbsp;Hey there! I'm Aditya Kanoi -->
+<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width="40" align="left"/><h2 align="left">Hey there! I'm Justine Lenard Sabawil</h2>
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-👨‍💻 &nbsp;I am Currently Working at OnDemand-Innovation in Philippines as Backend Developer.\
-💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
-🎓 &nbsp;I'm a Degree Holder in Information Technology at Sorsogon State University .\
-✍️ &nbsp;In my free time, I pursue Web Developing as hobbies/side hustles.\
-💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
-✉️ &nbsp;You can shoot me an email at justinelenardsabawil@gmail.com! I'll try to respond as soon as I can.\
-📄 &nbsp;Please have a look at my [Résumé]([https://onedrive.live.com/?authkey=%21AKntgUe4LOwU4xA&id=2C11D5C642133C04%213605&cid=2C11D5C642133C04&parId=root&parQt=sharedby&o=OneUp](https://drive.google.com/drive/u/1/folders/1FwPSgpDM2TrE0KJrv_TUW6RxDD-cGSo6)) for more details about me. I'm open to feedback and suggestions!
-
+👨‍💻 &nbsp;Currently working at OnDemand-Innovation in the Philippines as a Backend Developer.\
+💡 &nbsp;I enjoy exploring new technologies and developing software solutions and quick hacks.\
+🎓 &nbsp;I hold a degree in Information Technology from Sorsogon State University.\
+✍️ &nbsp;In my free time, I pursue web development as a hobby/side hustle.\
+💬 &nbsp;Feel free to reach out to me for pro bono consulting, volunteering, or just an interesting conversation.\
+✉️ &nbsp;You can email me at **justinelenardsabawil@gmail.com** — I'll try to respond as soon as I can!\
+📄 &nbsp;Check out my [Résumé](https://drive.google.com/drive/u/1/folders/1FwPSgpDM2TrE0KJrv_TUW6RxDD-cGSo6) for more details about me. I'm open to feedback and suggestions!
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
@@ -32,8 +29,7 @@
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)&nbsp;
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
 
-
-### 🧰 &nbsp;Version Controll & Tools 
+### 🧰 &nbsp;Version Control & Tools 
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)&nbsp;
@@ -58,26 +54,11 @@
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=LenardSabawil&theme=dark&hide_border=true"/>
 </p>
 
-
-
-### 💰 &nbsp;Support My Work
-[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/adityakanoi) 
-
-
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="adityakanoi2001.wordpress.com"><img src="https://img.shields.io/badge/-adityakanoi.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/ask2001/"><img src="https://img.shields.io/badge/-Aditya%20Sunit%20Kanoi-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:adityakanoiofficial@gmail.com"><img src="https://img.shields.io/badge/-Adityakanoi-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://www.instagram.com/aditya_kanoi123/"><img src="https://img.shields.io/badge/-Adityakanoi123-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
-<a href="https://www.facebook.com/profile.php?id=100008728234917"><img src="https://img.shields.io/badge/-AdityaKanoi-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/justinelenardsabawil/"><img src="https://img.shields.io/badge/-Justine%20Lenard%20Sabawil-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:justinelenardsabawil@gmail.com"><img src="https://img.shields.io/badge/-justinelenardsabawil-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 </p>
 
-### 🐍 &nbsp;That's How Commits move ...
 
-<div align="center">
-  <a href="https://github.com/Adityakanoi2001/">
-  <img src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg"
-       alt="snake" /></a>
-</div>
